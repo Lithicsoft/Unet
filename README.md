@@ -1,5 +1,4 @@
-# Unet-Data
-https://www.lithicsoft.tk/unet/
+# Unet
 
 About:
 This repository is used to store components related to Unet Operating System
