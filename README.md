@@ -4,7 +4,7 @@ About Repo:
 This repository is used to store components related to Unet Operating System
 
 About Unet:
-Unet is a Unix-like operating system with the best compatibility, Unet is suitable for servers, desktops and embedded platforms, and it also has networking, security and storage systems as well as support for most most popular embedded storage and networking devices.
+Unet is a Unix-like operating system that offers high compatibility, versatility and performance. It can run on servers, desktops and embedded platforms, and it supports most popular storage and networking devices. Unet also provides advanced networking, security and storage systems that make it a reliable and secure choice for any user.
 
 License:
 ```
