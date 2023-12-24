@@ -1,9 +1,9 @@
 # Site settings.
-title: Lithicsoft Organization.
+title: The Unet Project.
 email: lithicsoft@gmail.com
 description: >
-    An organization maintaining free software.
-baseurl: "" # the subpath of your site, e.g. /blog
+    Unet operating system website.
+baseurl: "/Unet" # the subpath of your site, e.g. /blog
 url: "https://lithicsoft.github.io/"
 github_username: lithicsoft
 
